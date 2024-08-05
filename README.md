@@ -36,7 +36,8 @@ A página web é gerada pelo Arduino e apresenta as seguintes informações:
 </body>
 </html>
 ```
-![Exemplo de Estilo para a pégina Web](webPage.png)
+### Exemplo de Estilo para a página web
+<img src="webPage.png" alt="Prévia da Página Web" width="500"/>
 
 ## Leitura da Tensão
 A leitura da tensão é realizada através da porta A0 do Arduino. Como a tensão máxima permitida na porta é de 5 Vdc, um divisor de tensão é utilizado. No primeiro teste, foi utilizado um divisor de tensão com resistores para um banco de baterias de 12 Vdc.
